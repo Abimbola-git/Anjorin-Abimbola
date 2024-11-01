@@ -9,56 +9,56 @@ Project on Sales Performance Analysis for a Retail Store
    
       •	Data Sources: 
 
-      	Sales transaction data (date, product ID, quantity sold, sales amount). 
+         	Sales transaction data (date, product ID, quantity sold, sales amount). 
    
-      	Product information (product ID, category, price). 
+         	Product information (product ID, category, price). 
    
-      	Store location data (region, store ID). Format: CSV files, Excel spreadsheets, (SQL) database.
+         	Store location data (region, store ID). Format: CSV files, Excel spreadsheets, (SQL) database.
   	
    
 4.	Data Preparation, Data Extraction, Transformation and Loading
    
-      •	Data Cleaning: 
+         •	Data Cleaning: 
 
-      •	Remove duplicates and irrelevant columns. 
+         •	Remove duplicates and irrelevant columns. 
 
-      •	Handle missing values (e.g., impute, remove). 
+         •	Handle missing values (e.g., impute, remove). 
 
-      •	Data Transformation: 
+         •	Data Transformation: 
 
-      •	Convert date fields to a standard format. 
+         •	Convert date fields to a standard format. 
 
-      •	Create calculated columns (e.g., total sales = quantity sold × price).
+         •	Create calculated columns (e.g., total sales = quantity sold × price).
   	
 
 5.	Overall Revenue Data Analysis
    
       Top-Selling Products:
 
-      	 Identify the products with the highest sales figures. Analyze sales by product category. 
+         	 Identify the products with the highest sales figures. Analyze sales by product category. 
 
       Regional Performance: 
 
-      •	Compare sales across different regions. Identify regions with the highest and lowest sales. 
+         •	Compare sales across different regions. Identify regions with the highest and lowest sales. 
 
       Monthly Sales Trends: 
 
-      •	Create a time series analysis of monthly sales. Identify seasonal patterns
+         •	Create a time series analysis of monthly sales. Identify seasonal patterns
   	
 
 6.	Key Metrics
    
-       	Used Excel spreadsheet and SQL database 
+         	Used Excel spreadsheet and SQL database 
          
-      o	To analyze the total sales revenue
+         o	To analyze the total sales revenue
    
-      o	Calculate the average transaction value
+         o	Calculate the average transaction value
    
-      o	Calculate the sales growth rate (month-over-month) 
+         o	Calculate the sales growth rate (month-over-month) 
    
-      o	Also analyze the top 10 products by sales 
+         o	Also analyze the top 10 products by sales 
    
-      o	Sales by region (percentage contribution
+         o	Sales by region (percentage contribution
   	
    
 7.	Creating the Power BI Dashboard Data Import:
