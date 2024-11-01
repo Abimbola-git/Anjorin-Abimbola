@@ -1,4 +1,4 @@
-# Anjorin-Abimbola
+# LITA CAPSTPNE PROJECT 1
 
 ## Project Title:  Sales Performance Analysis for a Retail Store.
 
