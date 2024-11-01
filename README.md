@@ -5,20 +5,20 @@ Project on Sales Performance Analysis for a Retail Store
 Objective: Analyze sales data to uncover insights on top-selling products, regional performance, and monthly sales trends, culminating in an interactive Power BI dashboard.
 
 3. Data Collected
-Data Sources:
+  Data Sources:
 Sales transaction data (date, product ID, quantity sold, sales amount).
 Product information (product ID, category, price).
 Store location data (region, store ID).
 Format: CSV files, Excel spreadsheets, (SQL) database.
 
 5. Data Preparation
-Data Extraction, Transformayion and Loading
-Data Cleaning:
-Remove duplicates and irrelevant columns.
-Handle missing values (e.g., impute, remove).
-Data Transformation:
-Convert date fields to a standard format.
-Create calculated columns (e.g., total sales = quantity sold × price).
+  Data Extraction, Transformayion and Loading
+***Data Cleaning:
+***Remove duplicates and irrelevant columns.
+***Handle missing values (e.g., impute, remove).
+***Data Transformation:
+***Convert date fields to a standard format.
+***Create calculated columns (e.g., total sales = quantity sold × price).
 
 7. Overall Revenue Data Analysis
 Top-Selling Products:
