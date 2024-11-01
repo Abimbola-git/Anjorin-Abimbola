@@ -80,7 +80,8 @@ Project on Sales Performance Analysis for a Retail Store.
          	Interactivity: Use slicers for filtering data by product category, region, or time period.
   	
 
-8.	   Conclusion: This structured approach helps to effectively analyze the sales performance of the retail store and create an insightful Power BI dashboard. 
+8.	   Conclusion: This structured approach helps to effectively analyze the sales performance of the retail store
+		       and create an insightful Power BI dashboard. 
 
 
 
