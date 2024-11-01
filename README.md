@@ -21,7 +21,7 @@ Format: CSV files, Excel spreadsheets, (SQL) database.
 ***Create calculated columns (e.g., total sales = quantity sold × price).
 
 7. Overall Revenue Data Analysis
-Top-Selling Products:
+	Top-Selling Products:
 Identify the products with the highest sales figures.
 Analyze sales by product category.
 Regional Performance:
