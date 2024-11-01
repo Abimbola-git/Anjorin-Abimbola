@@ -1,11 +1,13 @@
 # Anjorin-Abimbola
 
-Project on Sales Performance Analysis for a Retail Store 
-1.	Project Overview
+Project on Sales Performance Analysis for a Retail Store.
+
+1.	  Project Overview
    
       •	Objective: Analyze sales data to uncover insights on top-selling products, regional performance, and monthly sales trends, culminating in an interactive Power BI dashboard.
+  	  
 
-2.	Data Collected.
+3.	  Data Collected.
    
       •	Data Sources: 
 
@@ -16,7 +18,7 @@ Project on Sales Performance Analysis for a Retail Store
          	Store location data (region, store ID). Format: CSV files, Excel spreadsheets, (SQL) database.
   	
    
-4.	Data Preparation, Data Extraction, Transformation and Loading
+4.	  Data Preparation, Data Extraction, Transformation and Loading
    
          •	Data Cleaning: 
 
@@ -31,7 +33,7 @@ Project on Sales Performance Analysis for a Retail Store
          •	Create calculated columns (e.g., total sales = quantity sold × price).
   	
 
-5.	Overall Revenue Data Analysis
+5.	  Overall Revenue Data Analysis
    
       Top-Selling Products:
 
@@ -46,7 +48,7 @@ Project on Sales Performance Analysis for a Retail Store
          •	Create a time series analysis of monthly sales. Identify seasonal patterns
   	
 
-6.	Key Metrics
+6.	  Key Metrics
    
          	Used Excel spreadsheet and SQL database 
          
@@ -61,7 +63,9 @@ Project on Sales Performance Analysis for a Retail Store
          o	Sales by region (percentage contribution
   	
    
-7.	Creating the Power BI Dashboard Data Import:
+7.	  Creating the Power BI Dashboard
+
+	     Data Import:
    
          	Extract, transform and load cleaned data into Power BI.
   	
@@ -76,7 +80,7 @@ Project on Sales Performance Analysis for a Retail Store
          	Interactivity: Use slicers for filtering data by product category, region, or time period.
   	
 
-9.	Conclusion: This structured approach helps to effectively analyze the sales performance of the retail store and create an insightful Power BI dashboard. 
+8.	   Conclusion: This structured approach helps to effectively analyze the sales performance of the retail store and create an insightful Power BI dashboard. 
 
 
 
