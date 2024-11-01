@@ -7,6 +7,8 @@
       Objective: Analyze sales data to uncover insights on top-selling products, regional performance, and monthly sales trends, culminating in an interactive Power BI dashboard.
   	  
 
+
+
 2.	  Data Collected.
    
       •	Data Sources: 
@@ -17,6 +19,8 @@
    
          	Store location data (region, store ID). Format: CSV files, Excel spreadsheets, (SQL) database.
   	
+
+
    
 3.	  Data Preparation, Data Extraction, Transformation and Loading
    
@@ -33,6 +37,8 @@
          •	Create calculated columns (e.g., total sales = quantity sold × price).
   	
 
+
+
 4.	  Overall Revenue Data Analysis
    
       Top-Selling Products:
@@ -46,7 +52,8 @@
       Monthly Sales Trends: 
 
          •	Create a time series analysis of monthly sales. Identify seasonal patterns
-  	
+
+   
 
 5.	  Key Metrics
    
@@ -61,7 +68,8 @@
          o	Also analyze the top 10 products by sales 
    
          o	Sales by region (percentage contribution
-  	
+
+   
    
 6.	  Creating the Power BI Dashboard
 
