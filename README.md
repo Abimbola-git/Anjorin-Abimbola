@@ -8,9 +8,11 @@ Project on Sales Performance Analysis for a Retail Store
 2.	Data Collected.
    
 •	Data Sources: 
-	Sales transaction data (date, product ID, quantity sold, sales amount). 
-	Product information (product ID, category, price). 
-	Store location data (region, store ID). Format: CSV files, Excel spreadsheets, (SQL) database.
+
+   	Sales transaction data (date, product ID, quantity sold, sales amount). 
+   	Product information (product ID, category, price). 
+   	Store location data (region, store ID). Format: CSV files, Excel spreadsheets, (SQL) database.
+   
 4.	Data Preparation, Data Extraction, Transformation and Loading 
 •	Data Cleaning: 
 •	Remove duplicates and irrelevant columns. 
